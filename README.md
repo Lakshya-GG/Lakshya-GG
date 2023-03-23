@@ -34,6 +34,9 @@
 <p align="left">
   
 <a href="https://linkedin.com/in/lakshya-singh-606ba3244" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshya-singh-606ba3244" height="40" width="40" /></a>
+<a href="https://discordapp.com/users/587539105588445186">
+  <img align="left" alt="Lakshya's Discord" width="42px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
 <a href="https://instagram.com/lakshya_singh18" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lakshya_singh18" height="40" width="40" /></a>
 <a href="https://dev.to/lakshya" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lakshya" height="40" width="40" /></a> 
 <br>
