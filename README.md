@@ -11,9 +11,9 @@
 ### Hey lads 👋  
 - :school: I'm [Lakshya Singh](https://lakshya-gg.github.io/), pursuing B.Tech(CSE) from <a href="https://pes.edu/"> PES University</a>
 - 🔭 I’m currently working on  **Backend Development**
-- :neutral_face: I have a **love/hate** relationship with **Programming**
-- 🌱 I’m currently Working on OpenCV
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
+- :neutral_face: I have a **love/hate** relationship with **Next.JS**
+- 🌱 I’m currently Working on **OpenCV**
+- 🤔 I’m looking for help with *Data Structures and Algorithms* 😭
 - 💬 Ask me about anything, I am happy to help
 <p align = "right">
 
