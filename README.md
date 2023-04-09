@@ -21,16 +21,17 @@
 - :bulb: Occasionaly I do participate in **Hackathons**
 - 📫: Reach out to me  @**lakshyasinghwork@gmail.com**
   </p>
-
+##
 
 <br />
-<br />
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshya-gg&label=Profile%20views&color=0e75b6&style=flat&theme=tokyonight" alt="lakshya-gg" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshya-gg&theme=monokai" alt="lakshya-gg" /></a> </p>
+ <h2>🏆 GitHub Trophies </h2>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshya-gg&theme=monokai&margin-w=10" alt="lakshya-gg" /></a> </p>
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left"> 🌐 Connect with me :</h2>
 <p align="left">
   
 <a href="https://linkedin.com/in/lakshya-singh-606ba3244" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshya-singh-606ba3244" height="40" width="40" /></a>
@@ -44,7 +45,7 @@
 <br>
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages Tools and Tech Stack :</h2>
 <p align="left"> 
   
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42"/> </a>
@@ -71,7 +72,7 @@ src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="ta
   
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="42" height="42"/> </a>
   
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42"/> </a>
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="42" height="42"/> </a> 
   
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img align="left" 
 src ="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="42" height="42"/> </a> 
@@ -90,20 +91,29 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width
 
 <br>
 
-### 📊 Github Stats 
+## 📊 Github Stats 
 
 <br/>
 
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api?username=lakshya-gg&show_icons=true&theme=nightowl" width = 400>
+  <br />
+
+</p>
+
+<p align ="left">
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=lakshya-gg&theme=dark&hide_border=true" width = 400>
+  <br />
+  
 </p>
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lakshya-gg&layout=compact&theme=codeSTACKr&show_icons=true)](https://github.com/lakshya-gg/github-readme-stats)
+<br />
+<br />
 
 <br>
 
-Here are some [🦜 party parrots](https://cultofthepartyparrot.com) for you 😄:
+## Here are some [🦜 party parrots](https://cultofthepartyparrot.com) for you 😄:
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
@@ -131,3 +141,5 @@ Here are some [🦜 party parrots](https://cultofthepartyparrot.com) for you �
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
+
+<hr>
