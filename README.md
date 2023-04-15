@@ -91,12 +91,12 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width
 
 <br>
 
-## 📊 Github Stats 
+## 📊 Github Stats :
 
 <br/>
 
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api?username=lakshya-gg&show_icons=true&theme=nightowl" width = 400>
+  <img src = "https://github-readme-stats.vercel.app/api?username=Lakshya-GG&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true" width = 400>
   <br />
 
 </p>
@@ -109,11 +109,16 @@ src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=lakshya-gg&layout=compact&theme=codeSTACKr&show_icons=true)](https://github.com/lakshya-gg/github-readme-stats)
 <br />
-<br />
-
 <br>
 
-## Here are some [🦜 party parrots](https://cultofthepartyparrot.com) for you 😄:
+[![Lakshya's activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Lakshya-GG&theme=react-dark)](https://github.com/Lakshya-GG/github-readme-activity-graph)
+
+### ✍️ Random Dev Quote :
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br />
+ 
+
+## Here are some [🦜 party parrots](https://cultofthepartyparrot.com) for you 😄
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
