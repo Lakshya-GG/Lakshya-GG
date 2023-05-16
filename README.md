@@ -26,7 +26,7 @@
 ### Hey lads 👋  
 - :school: I'm [Lakshya Singh](https://lakshya-gg.github.io/), Sophomore at <a href="https://pes.edu/"> PES University</a> , B.Tech(CSE)
 - 🔭 I’m currently working on  **Backend Development**
-- :happy_face: I love working on **Next.JS** especially after their integration with <a href = "https://www.sanity.io/blog/build-a-personal-website-next-js-13-sanity">Sanity v3</a>
+- 🔥: I love working with **Next.JS**, especially after they are integrated with <a href = "https://www.sanity.io/blog/build-a-personal-website-next-js-13-sanity">Sanity v3</a>
 - 🤔 I’m looking for help with *Data Structures and Algorithms* 😭
 - 💬 Ask me about anything, I am happy to help
 <p align = "right">
@@ -180,7 +180,7 @@
 
 <div align = "center">
   <h2> GSSoC'23 Contributor</h2>
-  <img src = "assets/GSSoC'23.png" height = 225px width = 500px>
+  <img src = "assets/GSSoC'23.png" height = 400px width = 800px>
 </div>
 <hr>
 
