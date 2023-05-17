@@ -165,7 +165,7 @@
   <tr>
     <td>
       <a href="https://github.com/Lakshya-GG/TesseractJS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-GG&repo=Web-Development-Toolkit&theme=gotham&hide_border=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Lakshya-GG&repo=TesseractJS&theme=gotham&hide_border=true" />
       </a>
     </td>
     <td colspace = "2">
