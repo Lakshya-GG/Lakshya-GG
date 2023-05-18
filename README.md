@@ -125,7 +125,7 @@
 		<td><a href="https://twitter.com/_LakshyaSingh_"><img src="https://streak-stats.demolab.com/?user=Lakshya-GG&hide_border=true&border_radius=4.5&line_height=20&layout=compact&theme=gotham"></a></td>    
 	</tr>
     <tr>
-		<td colspan = "2"><a href="https://www.instagram.com/lakshya_singh18/"><img width=100% src="https://github-profile-trophy.vercel.app/?username=Lakshya-GG&hide_border=true&count_private=true&column=7&theme=gruvbox&no-frame=true"></a></td>
+		<td colspan = "2"><a href="https://www.instagram.com/lakshya_singh18/"><img width=100% src="https://github-profile-trophy.vercel.app/?username=Lakshya-GG&hide_border=true&count_private=true&column=8&theme=gruvbox&no-frame=true"></a></td>
 	</tr>
     <tr>
       <td>
