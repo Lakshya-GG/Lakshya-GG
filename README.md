@@ -118,7 +118,7 @@
 ## 📊 Github Statistics <img src = "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width = 120px height = 40px>
 <table>
 	<tr>
-		<td colspan = "2"><a href = "https://github.com/Lakshya-GG"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Lakshya-GG&theme=gotham&hide_border=true&point=false&line=88c0d0&radius=8&area=true"></a></td>
+		<td colspan = "2"><a href = "https://github.com/Lakshya-GG"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshya-GG&bg_color=141619&color=00573f&line=2f494c&point=000000&area=true&hide_border=true&point=false"></a></td>
 	</tr>
 	<tr>
 		<td><a href="https://www.linkedin.com/in/lakshya-singh-gg/"><img src="https://github-readme-stats.vercel.app/api?username=Lakshya-GG&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=gotham"></a></td>
