@@ -1,6 +1,6 @@
 <div align = "center">
 <h1>Hi 👋🏼, I'm <a href = "https://github.com/Lakshya-GG">Lakshya Singh</a></h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=750&color=00C58E&background=000000&center=true&vCenter=true&width=435&lines=Web+Development+;Computer+Vision;Game+Development" alt="Typing SVG" /></a>
+<a href="https://github.com/Lakshya-GG"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=750&color=00C58E&background=000000&center=true&vCenter=true&width=435&lines=Web+Development+;Computer+Vision;Game+Development" alt="Typing SVG" /></a>
 </div>
 <p>
 <h3 align="left">A <b>20</b> year old  passionate developer from India who has a penchant for exploring new Tech stack 💻 and leveraging them to build cool stuffs 🛠️.
@@ -79,41 +79,45 @@
 <hr>
 
 ## 💻 Languages, Tools and Tech Stack :
-<table>
-<tr>
-	<th><strong>Web Development</strong></th>	<th><strong>Editor & Cloud Services</strong></th>
-  <th><strong>Development Tools</strong></th>
 
-	
-</tr>
-<tr>
-		<td><img src = "https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,babel" ></td>  
-		<td><img src = "https://skillicons.dev/icons?i=vscode,atom,codepen,mongodb,netlify,heroku,vercel&theme=dark"></td>
-    <td><img src = "https://skillicons.dev/icons?i=bash,githubactions,git,github&theme=dark"></td>
-				
-</tr>
-</table>
 <table>
-<tr>
-	<th><strong>JS Frameworks</strong></th>
-	<th><strong>Design & UI</strong></th>
-	<th><strong>Languages</strong></th>
-  <th><strong>Computer Vision</strong></th>
-	<th><strong>Tools</strong></th>
-  <th><strong>IoT</strong></th>
-</tr>
-<tr>
-		<td><img src = "https://skillicons.dev/icons?i=nextjs,jquery,express,react,redux&theme=dark"></td>
-		<td><img src = "https://skillicons.dev/icons?i=figma,bootstrap,materialui,tailwind&theme=dark"></td>
-		<td><img src = "https://skillicons.dev/icons?i=c,cpp,py&theme=dark"></td>
-		<td><a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" height = 33/> </a></td>
-		<td><img src = "https://skillicons.dev/icons?i=linux,git,regex&theme=dark"></td>
-    <td><img src = "https://skillicons.dev/icons?i=arduino&theme=dark"></td>
-    
-</tr>
+    <tr>
+        <th><strong> Web Development </strong></th>
+        <td><img src = "https://skillicons.dev/icons?i=html,css,js,typescript,nodejs,babel&theme=dark" ></td> 
+    </tr>
+    <tr>
+        <th><strong> JS Frameworks </strong></th>
+        <td><img src = "https://skillicons.dev/icons?i=nextjs,jquery,express,react,redux&theme=dark"></td>
+    </tr>
+    <tr>
+    	<th><strong>Design & UI</strong></th>
+        <td><img src = "https://skillicons.dev/icons?i=figma,bootstrap,materialui,tailwind&theme=dark"></td>
+    </tr>
+    <tr>
+    	<th><strong>Languages</strong></th>
+        <td><img src = "https://skillicons.dev/icons?i=c,cpp,py&theme=dark"></td>
+    </tr>
+    <tr>
+    	<th><strong>Cloud Services</strong></th>
+        <td><img src = "https://skillicons.dev/icons?i=vscode,atom,codepen,mongodb,netlify,heroku,vercel&theme=dark"></td>
+    </tr>
+    <tr>
+          <th><strong>Development Tools</strong></th>
+          <td><img src = "https://skillicons.dev/icons?i=bash,githubactions,git,github&theme=dark"></td>
+    </tr>
+    <tr>
+          <th><strong>Computer Vision</strong></th>
+          <td><a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" height = 33/> </a></td>
+    </tr>
+    <tr>
+    	<th><strong>Tools</strong></th>
+        <td><img src = "https://skillicons.dev/icons?i=linux,git,regex&theme=dark"></td>
+    </tr>
 </table>
-<hr>
 <br>
+<hr>
+
+
 
 ## 📊 Github Statistics <img src = "https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width = 120px height = 40px>
 <table>
